@@ -1,2 +1,2 @@
 # project
-personal project
+personal algorithm study

@@ -1,5 +1,5 @@
 import sys
-import time 
+import time
 
 if __name__ == '__main__':
 	input_string = ['1 3' , '3 4', '6 5', '11 15', '12 17', '12 15', '17 1']
